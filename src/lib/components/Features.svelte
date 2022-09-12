@@ -1,7 +1,7 @@
 
 <section class="bg-white ">
     <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
-        <div class="max-w-screen-md mb-8 lg:mb-16">
+        <div class="mx-auto max-w-screen-sm text-center mb-8 lg:mb-16">
             <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 ">Designed for business teams like yours</h2>
             <p class="text-gray-500 sm:text-xl ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cumque expedita voluptates fugit magnam dicta dolor, tenetur ipsam deleniti ducimus?</p>
         </div>
