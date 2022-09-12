@@ -3,7 +3,8 @@
         <div class="mx-auto max-w-screen-sm text-center">
             <h2 class="mb-4 text-4xl tracking-tight font-extrabold leading-tight text-gray-900 ">Start your free trial today</h2>
             <p class="mb-6 font-light text-gray-500  md:text-lg">Try Flowbite Platform for 30 days. No credit card required.</p>
-            <a href="https://g" class=" text-white bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2  focus:outline-none ">Free trial for 30 days</a>
+            <!-- svelte-ignore a11y-invalid-attribute -->
+            <a href="#" class=" text-white bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2  focus:outline-none ">Free trial for 30 days</a>
         </div>
     </div>
 </section>
