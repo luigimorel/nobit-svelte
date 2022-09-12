@@ -13,7 +13,7 @@
 			<div
 				class="items-center bg-gray-50 rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700"
 			>
-				<a href="https://www.google.com" target="_blank" rel="noreferrer" >
+				<a href="https://www.google.com" target="_blank" rel="external" >
 					<img
 						class="w-full rounded-lg sm:rounded-none sm:rounded-l-lg"
 						src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/bonnie-green.png"
@@ -22,7 +22,7 @@
 				</a>
 				<div class="p-5">
 					<h3 class="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
-						<a href="https://www.google.com" target="_blank" rel="noreferrer" >Bonnie Green</a>
+						<a href="https://www.google.com" target="_blank" rel="external" >Bonnie Green</a>
 					</h3>
 					<span class="text-gray-500 dark:text-gray-400">CEO & Web Developer</span>
 					<p class="mt-3 mb-4 font-light text-gray-500 dark:text-gray-400">
@@ -30,7 +30,7 @@
 					</p>
 					<ul class="flex space-x-4 sm:mt-0">
 						<li>
-							<a href="https://www.google.com" target="_blank" rel="noreferrer"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
+							<a href="https://www.google.com" target="_blank" rel="external"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
 								<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"
 									><path
 										fill-rule="evenodd"
@@ -41,7 +41,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="https://www.google.com" target="_blank" rel="noreferrer"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
+							<a href="https://www.google.com" target="_blank" rel="external"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
 								<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"
 									><path
 										d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84"
@@ -50,7 +50,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="https://www.google.com" target="_blank" rel="noreferrer"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
+							<a href="https://www.google.com" target="_blank" rel="external"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
 								<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"
 									><path
 										fill-rule="evenodd"
@@ -61,7 +61,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="https://www.google.com" target="_blank" rel="noreferrer"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
+							<a href="https://www.google.com" target="_blank" rel="external"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
 								<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"
 									><path
 										fill-rule="evenodd"
@@ -77,7 +77,7 @@
 			<div
 				class="items-center bg-gray-50 rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700"
 			>
-				<a href="https://www.google.com" target="_blank" rel="noreferrer" >
+				<a href="https://www.google.com" target="_blank" rel="external" >
 					<img
 						class="w-full rounded-lg sm:rounded-none sm:rounded-l-lg"
 						src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png"
@@ -86,7 +86,7 @@
 				</a>
 				<div class="p-5">
 					<h3 class="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
-						<a href="https://www.google.com" target="_blank" rel="noreferrer" >Jese Leos</a>
+						<a href="https://www.google.com" target="_blank" rel="external" >Jese Leos</a>
 					</h3>
 					<span class="text-gray-500 dark:text-gray-400">CTO</span>
 					<p class="mt-3 mb-4 font-light text-gray-500 dark:text-gray-400">
@@ -94,7 +94,7 @@
 					</p>
 					<ul class="flex space-x-4 sm:mt-0">
 						<li>
-							<a href="https://www.google.com" target="_blank" rel="noreferrer"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
+							<a href="https://www.google.com" target="_blank" rel="external"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
 								<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"
 									><path
 										fill-rule="evenodd"
@@ -105,7 +105,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="https://www.google.com" target="_blank" rel="noreferrer"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
+							<a href="https://www.google.com" target="_blank" rel="external"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
 								<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"
 									><path
 										d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84"
@@ -114,7 +114,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="https://www.google.com" target="_blank" rel="noreferrer"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
+							<a href="https://www.google.com" target="_blank" rel="external"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
 								<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"
 									><path
 										fill-rule="evenodd"
@@ -125,7 +125,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="https://www.google.com" target="_blank" rel="noreferrer"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
+							<a href="https://www.google.com" target="_blank" rel="external"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
 								<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"
 									><path
 										fill-rule="evenodd"
@@ -141,7 +141,7 @@
 			<div
 				class="items-center bg-gray-50 rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700"
 			>
-				<a href="https://www.google.com" target="_blank" rel="noreferrer" >
+				<a href="https://www.google.com" target="_blank" rel="external" >
 					<img
 						class="w-full rounded-lg sm:rounded-none sm:rounded-l-lg"
 						src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/michael-gouch.png"
@@ -150,7 +150,7 @@
 				</a>
 				<div class="p-5">
 					<h3 class="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
-						<a href="https://www.google.com" target="_blank" rel="noreferrer" >Michael Gough</a>
+						<a href="https://www.google.com" target="_blank" rel="external" >Michael Gough</a>
 					</h3>
 					<span class="text-gray-500 dark:text-gray-400">Senior Front-end Developer</span>
 					<p class="mt-3 mb-4 font-light text-gray-500 dark:text-gray-400">
@@ -158,7 +158,7 @@
 					</p>
 					<ul class="flex space-x-4 sm:mt-0">
 						<li>
-							<a href="https://www.google.com" target="_blank" rel="noreferrer"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
+							<a href="https://www.google.com" target="_blank" rel="external"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
 								<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"
 									><path
 										fill-rule="evenodd"
@@ -169,7 +169,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="https://www.google.com" target="_blank" rel="noreferrer"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
+							<a href="https://www.google.com" target="_blank" rel="external"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
 								<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"
 									><path
 										d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84"
@@ -178,7 +178,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="https://www.google.com" target="_blank" rel="noreferrer"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
+							<a href="https://www.google.com" target="_blank" rel="external"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
 								<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"
 									><path
 										fill-rule="evenodd"
@@ -189,7 +189,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="https://www.google.com" target="_blank" rel="noreferrer"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
+							<a href="https://www.google.com" target="_blank" rel="external"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
 								<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"
 									><path
 										fill-rule="evenodd"
@@ -205,7 +205,7 @@
 			<div
 				class="items-center bg-gray-50 rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700"
 			>
-				<a href="https://www.google.com" target="_blank" rel="noreferrer" >
+				<a href="https://www.google.com" target="_blank" rel="external" >
 					<img
 						class="w-full rounded-lg sm:rounded-none sm:rounded-l-lg"
 						src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/sofia-mcguire.png"
@@ -214,7 +214,7 @@
 				</a>
 				<div class="p-5">
 					<h3 class="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
-						<a href="https://www.google.com" target="_blank" rel="noreferrer" >Lana Byrd</a>
+						<a href="https://www.google.com" target="_blank" rel="external" >Lana Byrd</a>
 					</h3>
 					<span class="text-gray-500 dark:text-gray-400">Marketing & Sale</span>
 					<p class="mt-3 mb-4 font-light text-gray-500 dark:text-gray-400">
@@ -222,7 +222,7 @@
 					</p>
 					<ul class="flex space-x-4 sm:mt-0">
 						<li>
-							<a href="https://www.google.com" target="_blank" rel="noreferrer"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
+							<a href="https://www.google.com" target="_blank" rel="external"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
 								<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"
 									><path
 										fill-rule="evenodd"
@@ -233,7 +233,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="https://www.google.com" target="_blank" rel="noreferrer"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
+							<a href="https://www.google.com" target="_blank" rel="external"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
 								<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"
 									><path
 										d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84"
@@ -242,7 +242,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="https://www.google.com" target="_blank" rel="noreferrer"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
+							<a href="https://www.google.com" target="_blank" rel="external"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
 								<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"
 									><path
 										fill-rule="evenodd"
@@ -253,7 +253,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="https://www.google.com" target="_blank" rel="noreferrer"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
+							<a href="https://www.google.com" target="_blank" rel="external"  class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
 								<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"
 									><path
 										fill-rule="evenodd"
