@@ -7,9 +7,11 @@
 	import Footer from '../lib/components/Footer.svelte';
 	import Hero from '../lib/components/Hero.svelte';
 	import Team from '../lib/components/Team.svelte';
+
+	let open = false;
 </script>
 
-<Header />
+<Header bind:open />
 <Hero />
 <Features />
 <CallToAction />
