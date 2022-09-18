@@ -4,6 +4,8 @@ A landing page for a hypothetical startup
 
 ![Screen shot of the landing page](./image.png)
 
+Live link: [https://master--svelte-app-luigi.netlify.app/](https://master--svelte-app-luigi.netlify.app/)
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
