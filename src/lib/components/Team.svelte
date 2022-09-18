@@ -26,7 +26,7 @@
 					</h3>
 					<span class="text-gray-500 ">CEO & Web Developer</span>
 					<p class="mt-3 mb-4 font-light text-gray-500 ">
-						Bonnie drives the technical strategy of the flowbite platform and brand.
+						Bonnie drives the technical strategy of the nobit platform and brand.
 					</p>
 					<ul class="flex space-x-4 sm:mt-0">
 						<li>
@@ -90,7 +90,7 @@
 					</h3>
 					<span class="text-gray-500 ">CTO</span>
 					<p class="mt-3 mb-4 font-light text-gray-500 ">
-						Jese drives the technical strategy of the flowbite platform and brand.
+						Jese drives the technical strategy of the nobit platform and brand.
 					</p>
 					<ul class="flex space-x-4 sm:mt-0">
 						<li>
@@ -154,7 +154,7 @@
 					</h3>
 					<span class="text-gray-500 ">Senior Front-end Developer</span>
 					<p class="mt-3 mb-4 font-light text-gray-500 ">
-						Michael drives the technical strategy of the flowbite platform and brand.
+						Michael drives the technical strategy of the nobit platform and brand.
 					</p>
 					<ul class="flex space-x-4 sm:mt-0">
 						<li>
@@ -218,7 +218,7 @@
 					</h3>
 					<span class="text-gray-500 ">Marketing & Sale</span>
 					<p class="mt-3 mb-4 font-light text-gray-500 ">
-						Lana drives the technical strategy of the flowbite platform and brand.
+						Lana drives the technical strategy of the nobit platform and brand.
 					</p>
 					<ul class="flex space-x-4 sm:mt-0">
 						<li>
