@@ -1,5 +1,6 @@
 <script lang="ts">
-let src = "./image-mockups.png"
+	let src = './image-mockups.png';
+	let src1 = './image-mockups1.png';
 </script>
 
 <section class="bg-white min-h-screen ">
@@ -12,9 +13,7 @@ let src = "./image-mockups.png"
 			>
 				Payments tool for software companies
 			</h1>
-			<p
-				class="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl "
-			>
+			<p class="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl ">
 				From checkout to global sales tax compliance, companies around the world use Nobit to
 				simplify their payment stack.
 			</p>
@@ -44,10 +43,8 @@ let src = "./image-mockups.png"
 		</div>
 
 		<div class="hidden lg:mt-0 lg:col-span-7 sm:col-span-6 lg:flex">
-			<img
-				src={src}
-				alt="mockup"
-			/>
+			<img src={src1} class=" lg:hidden block" alt="mockup" />
+			<img class="hidden sm:block" src={src} alt="mockup" />
 		</div>
 	</div>
 </section>
