@@ -1,3 +1,9 @@
+# Introduction
+
+A landing page for a hypothetical startup
+
+![./image.pmg](Screen shot of the landing page)
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
