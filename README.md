@@ -2,7 +2,7 @@
 
 A landing page for a hypothetical startup
 
-![./image.png](Screen shot of the landing page)
+![Screen shot of the landing page](./image.png)
 
 # create-svelte
 
