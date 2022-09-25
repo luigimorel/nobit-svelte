@@ -3,8 +3,9 @@
 		<div class="space-y-6 md:space-y-0 md:flex tab:flex-col md:gap-6 lg:items-center lg:gap-12">
 			<div class="md:5/12 lg:w-5/12">
 				<img
-					src="https://tailus.io/sources/blocks/left-image/preview/images/startup.png"
+					src="https://res.cloudinary.com/morelmiles/image/upload/v1664096644/img_c0yeid.jpg"
 					alt=""
+                    class=" rounded-3xl"
 					loading="lazy"
 					width=""
 					height=""
