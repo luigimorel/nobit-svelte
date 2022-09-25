@@ -3,11 +3,11 @@
 	let src1 = './image-mockups1.png';
 </script>
 
-<section class="bg-white min-h-screen ">
+<section class="bg-white min-h-screen sm:pb-20">
 	<div
-		class="grid max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 h-screen"
+		class="grid lg:max-w-screen-2xl sm:max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 h-screen"
 	>
-		<div class="mr-auto place-self-center lg:col-span-5">
+		<div class="mr-auto place-self-center lg:col-span-4">
 			<h1
 				class="max-w-2xl mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl "
 			>
@@ -42,9 +42,9 @@
 			</a>
 		</div>
 
-		<div class="hidden lg:mt-0 lg:col-span-7 sm:col-span-6 lg:flex">
+		<div class="hidden lg:mt-0 lg:col-span-8 sm:col-span-6 lg:flex">
 			<img src={src1} class=" lg:hidden block" alt="mockup" />
-			<img class="hidden sm:block" src={src} alt="mockup" />
+			<img class="hidden sm:block" {src} alt="mockup" />
 		</div>
 	</div>
 </section>
