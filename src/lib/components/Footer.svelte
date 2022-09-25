@@ -1,83 +1,111 @@
 <script lang="ts">
-	const thisYear = new Date().getFullYear();
+
+	let  currentYear = new Date().getFullYear()
+
 </script>
-
-<footer class="p-4 bg-white md:p-8 lg:p-10 ">
-	<div class="mx-auto max-w-screen-xl text-center">
-		<a
-			href="https://google.com"
-			target="_blank"
-			rel="external"
-			class="flex justify-center items-center text-2xl font-semibold text-gray-900 "
-		>
-
-			Nobit
-		</a>
-		<p class="my-6 text-gray-500 ">
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, exercitationem?
-		</p>
-		<ul class="flex flex-wrap justify-center items-center mb-6 text-gray-900 ">
-			<li>
-				<a
-					href="https://google.com"
-					target="_blank"
-					rel="external"
-					class="mr-4 hover:underline md:mr-6 ">About</a
-				>
-			</li>
-			<li>
-				<a
-					href="https://google.com"
-					target="_blank"
-					rel="external"
-					class="mr-4 hover:underline md:mr-6">Premium</a
-				>
-			</li>
-			<li>
-				<a
-					href="https://google.com"
-					target="_blank"
-					rel="external"
-					class="mr-4 hover:underline md:mr-6 ">Campaigns</a
-				>
-			</li>
-			<li>
-				<a
-					href="https://google.com"
-					target="_blank"
-					rel="external"
-					class="mr-4 hover:underline md:mr-6">Blog</a
-				>
-			</li>
-			<li>
-				<a
-					href="https://google.com"
-					target="_blank"
-					rel="external"
-					class="mr-4 hover:underline md:mr-6">Affiliate Program</a
-				>
-			</li>
-			<li>
-				<a
-					href="https://google.com"
-					target="_blank"
-					rel="external"
-					class="mr-4 hover:underline md:mr-6">FAQs</a
-				>
-			</li>
-			<li>
-				<a
-					href="https://google.com"
-					target="_blank"
-					rel="external"
-					class="mr-4 hover:underline md:mr-6">Contact</a
-				>
-			</li>
-		</ul>
-		<span class="text-sm text-gray-500 sm:text-center "
-			>© {thisYear}
-			<a href="https://google.com" target="_blank" rel="external" class="hover:underline">Nobit™</a
-			>. All Rights Reserved.</span
-		>
+<div class=" bg-[#212121] py-12 px-4">
+	<div
+		tabindex="0"
+		aria-label="footer"
+		class="focus:outline-none mx-auto container flex flex-col items-center justify-center"
+	>
+		<div tabindex="0" aria-label="nobit logo" role="img">
+			<p class=" text-gray-900 dark:text-white text-2xl font-bold">Nobit</p>
+		</div>
+		<div class="text-black flex flex-col md:items-center f-f-l pt-3">
+			<h1 tabindex="0" class="focus:outline-none dark:text-white text-2xl font-semibold">
+				Build. Review. Ship.
+			</h1>
+			<div class="md:flex items-center mt-5 md:mt-10 text-base text-color f-f-l">
+				<h2 class=" md:mr-6 pb-4 md:py-0 cursor-pointer">
+					<a
+						class="focus:outline-none dark:text-white   focus:underline hover:text-gray-700"
+						href="google.com">Download Now</a
+					>
+				</h2>
+				<h2 class="cursor-pointer">
+					<a
+						class="focus:outline-none dark:text-white focus:underline hover:text-gray-700"
+						href="google.com">License</a
+					>
+				</h2>
+			</div>
+			<div class="my-6 text-base text-color f-f-l">
+				<ul class="md:flex items-center">
+					<li class="md:mr-6 cursor-pointer pt-4 lg:py-0">
+						<a
+							href="google.com"
+							class="focus:outline-none dark:text-white  focus:underline hover:text-gray-500"
+							>About
+						</a>
+					</li>
+					<li class="md:mr-6 cursor-pointer pt-4 lg:py-0">
+						<a
+							href="google.com"
+							class="focus:outline-none dark:text-white  focus:underline hover:text-gray-500"
+							>Features
+						</a>
+					</li>
+					<li class="md:mr-6 cursor-pointer pt-4 lg:py-0">
+						<a
+							href="google.com"
+							class="focus:outline-none dark:text-white  focus:underline hover:text-gray-500"
+							>Pricing
+						</a>
+					</li>
+					<li class="md:mr-6 cursor-pointer pt-4 lg:py-0">
+						<a
+							href="google.com"
+							class="focus:outline-none dark:text-white  focus:underline hover:text-gray-500"
+							>Careers
+						</a>
+					</li>
+					<li class="md:mr-6 cursor-pointer pt-4 lg:py-0">
+						<a
+							href="google.com"
+							class="focus:outline-none dark:text-white  focus:underline hover:text-gray-500"
+							>Help
+						</a>
+					</li>
+					<li class="cursor-pointer pt-4 lg:py-0">
+						<a
+							href="google.com"
+							class="focus:outline-none focus:underline dark:text-white hover:text-gray-500"
+							>Privacy Policy
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="text-sm text-color mb-10 f-f-l">
+				<p tabindex="0" class="dark:text-white focus:outline-none">
+					© {currentYear} Nobit. All rights reserved
+				</p>
+			</div>
+		</div>
+		<div class="w-9/12 h-0.5 bg-gray-100 dark:bg-gray-700 rounded-full" />
+		<div class="flex justify-between items-center pt-12">
+			<a
+				href="google.com"
+				class="hover:shadow-lg mr-4 focus:outline-none rounded-md focus:ring-2 focus:ring-offset-2 focus:ring-gray-600"
+				aria-label="download on the app store"
+				><div class="">
+					<img
+						src="https://tuk-cdn.s3.amazonaws.com/can-uploader/simple_center_aligned_with_logo-svg2.svg"
+						alt="download on the app store"
+					/>
+				</div>
+			</a>
+			<button
+				class="hover:shadow-lg focus:outline-none rounded-md focus:ring-2 focus:ring-offset-2 focus:ring-gray-600"
+				aria-label="get it on google play"
+			>
+				<div>
+					<img
+						src="https://tuk-cdn.s3.amazonaws.com/can-uploader/simple_center_aligned_with_logo-svg3.svg"
+						alt="get it on google play"
+					/>
+				</div>
+			</button>
+		</div>
 	</div>
-</footer>
+</div>
