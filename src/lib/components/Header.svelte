@@ -9,7 +9,6 @@
 	>
 		<div class="container flex flex-wrap justify-between items-center mx-auto">
 			<a href="https://flowbite.com/" class="flex items-center">
-
 				<span class="self-center text-xl font-semibold whitespace-nowrap ">Nobit</span>
 			</a>
 			<div class="flex md:order-2">

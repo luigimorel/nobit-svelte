@@ -13,7 +13,5 @@
 				<source srcset="svelte-welcome.webp" type="image/webp" />
 			</picture>
 		</span>
-
- 	</h1>
-
+	</h1>
 </section>

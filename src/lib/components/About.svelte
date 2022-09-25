@@ -5,7 +5,7 @@
 				<img
 					src="https://res.cloudinary.com/morelmiles/image/upload/v1664096644/img_c0yeid.jpg"
 					alt=""
-                    class=" rounded-3xl"
+					class=" rounded-3xl"
 					loading="lazy"
 					width=""
 					height=""

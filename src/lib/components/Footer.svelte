@@ -1,8 +1,7 @@
 <script lang="ts">
-
-	let  currentYear = new Date().getFullYear()
-
+	let currentYear = new Date().getFullYear();
 </script>
+
 <div class=" bg-[#212121] py-12 px-4">
 	<div
 		tabindex="0"
@@ -20,13 +19,13 @@
 				<h2 class=" md:mr-6 pb-4 md:py-0 cursor-pointer">
 					<a
 						class="focus:outline-none dark:text-white   focus:underline hover:text-gray-700"
-						href="google.com">Download Now</a
+						href="https://www.google.com" target="_blank" rel="external">Download Now</a
 					>
 				</h2>
 				<h2 class="cursor-pointer">
 					<a
 						class="focus:outline-none dark:text-white focus:underline hover:text-gray-700"
-						href="google.com">License</a
+						href="https://www.google.com" target="_blank" rel="external">License</a
 					>
 				</h2>
 			</div>
@@ -34,42 +33,42 @@
 				<ul class="md:flex items-center">
 					<li class="md:mr-6 cursor-pointer pt-4 lg:py-0">
 						<a
-							href="google.com"
+							href="https://www.google.com" target="_blank" rel="external"
 							class="focus:outline-none dark:text-white  focus:underline hover:text-gray-500"
 							>About
 						</a>
 					</li>
 					<li class="md:mr-6 cursor-pointer pt-4 lg:py-0">
 						<a
-							href="google.com"
+							href="https://www.google.com" target="_blank" rel="external"
 							class="focus:outline-none dark:text-white  focus:underline hover:text-gray-500"
 							>Features
 						</a>
 					</li>
 					<li class="md:mr-6 cursor-pointer pt-4 lg:py-0">
 						<a
-							href="google.com"
+							href="https://www.google.com" target="_blank" rel="external"
 							class="focus:outline-none dark:text-white  focus:underline hover:text-gray-500"
 							>Pricing
 						</a>
 					</li>
 					<li class="md:mr-6 cursor-pointer pt-4 lg:py-0">
 						<a
-							href="google.com"
+							href="https://www.google.com" target="_blank" rel="external"
 							class="focus:outline-none dark:text-white  focus:underline hover:text-gray-500"
 							>Careers
 						</a>
 					</li>
 					<li class="md:mr-6 cursor-pointer pt-4 lg:py-0">
 						<a
-							href="google.com"
+							href="https://www.google.com" target="_blank" rel="external"
 							class="focus:outline-none dark:text-white  focus:underline hover:text-gray-500"
 							>Help
 						</a>
 					</li>
 					<li class="cursor-pointer pt-4 lg:py-0">
 						<a
-							href="google.com"
+							href="https://www.google.com" target="_blank" rel="external"
 							class="focus:outline-none focus:underline dark:text-white hover:text-gray-500"
 							>Privacy Policy
 						</a>
@@ -85,7 +84,7 @@
 		<div class="w-9/12 h-0.5 bg-gray-100 dark:bg-gray-700 rounded-full" />
 		<div class="flex justify-between items-center pt-12">
 			<a
-				href="google.com"
+				href="https://www.google.com" target="_blank" rel="external"
 				class="hover:shadow-lg mr-4 focus:outline-none rounded-md focus:ring-2 focus:ring-offset-2 focus:ring-gray-600"
 				aria-label="download on the app store"
 				><div class="">

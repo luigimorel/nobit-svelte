@@ -1,7 +1,7 @@
 <script lang="ts">
 	import Header from '$lib/components/Header.svelte';
 	import '../app.css';
-	import About from "../lib/components/About.svelte";
+	import About from '../lib/components/About.svelte';
 	import BottomCta from '../lib/components/BottomCTA.svelte';
 	import CallToAction from '../lib/components/CallToAction.svelte';
 	import Features from '../lib/components/Features.svelte';
@@ -14,7 +14,7 @@
 
 <Header bind:open />
 <Hero />
-<About/>
+<About />
 <Features />
 <CallToAction />
 <Team />
